@@ -1,6 +1,6 @@
 // Informações pessoais em variáveis
 const personalInfo = {
-    name: "Dilermando Piva Junior",
+    name: "Prof. Dr. Dilermando Piva Jr.",
     profileImage: "piva.jpg", // URL da imagem de perfil
     aboutText: "Sou um professor de ciência de dados apaixonado por inovação e tecnologia.",
     projects: [
